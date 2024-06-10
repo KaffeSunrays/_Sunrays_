@@ -255,6 +255,5 @@
         </div>
     </div>
     <footer>
-        <p>&copy; 2024 Кафе. Всі права захищені.</p>
     </footer>
 </body
