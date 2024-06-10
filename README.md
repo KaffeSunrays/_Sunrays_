@@ -74,7 +74,7 @@
             cursor: pointer;
         }
         .menu-item img:hover {
-            transform: scale(1.2);
+            transform: scale(2.2);
         }
         .menu-item-details {
             display: flex;
@@ -254,4 +254,3 @@
             </div>
         </div>
     </div>
-</body
